@@ -3,6 +3,8 @@ Just a collection of insights, mostly in a professional programming/data science
 
 # To checkout
 
+---
+
 # 03.11.2022 Agile: What is the Spotify Framework?
 - based on Scrum with less formal methods
 - central are autonomous groups (squad) that do everything from early development to maintainance
