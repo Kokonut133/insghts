@@ -5,6 +5,22 @@ Just a collection of insights, mostly in a professional programming/data science
 
 ---
 
+# 14.11.2022 Log Tracking: Grafana: What is Grafana?
+- a visualization tool for logs, metrics with a time-series nature
+# 14.111.2022 MLFlow: What is MLFlow?
+- MLFlow is a tool to track experiment metrics, models and serve them
+- Ideal for Hyperparameter-tuning?
+# 14.11.2022 Models: Decision Trees: How do decision trees learn?
+1. Determine metric with highest entropy
+2. Find a line to separate based on that feature into classes
+3. Inside new split repeat 1-2. until all features gone through
+![Decision Tree Splitting](https://www.researchgate.net/publication/342724336/figure/fig2/AS:910463089012746@1594082724852/Decision-tree-data-splitting-This-is-a-revised-figure-taken-from-Zou-Schonlau-17.png)
+# 14.11.2022 Model Serving: Nvidia Triton: What is Nvidia Triton?
+- Nvidida Triton is a middlepiece focusing on fast inference/prediction model serving and the hardware balancing involved in it
+# 14.11.2022 Pipeline Orchestration: Kedro: What is Kedro?
+- A modular setup for building, managing, containerizing data science workflows
+- includes preprocessing, data versioning, paralellization, requirements handling, visualizations
+
 # 03.11.2022 Agile: What is the Spotify Framework?
 - based on Scrum with less formal methods
 - central are autonomous groups (squad) that do everything from early development to maintainance
