@@ -19,8 +19,8 @@ Just a collection of insights, mostly in a professional programming/data science
 - ZenML focuses on small to medium sized teams
 - Airflow has a flat learning curve but long-termish is one of the mightiest
 - Airflow requires a very specific way of dealing with data
--> Personal preference is Kedro as enforcement of some minimal standards make it more maintainable overviewable
--> ZenML if ML Ops parts will change more frequent in the future
+- -> Personal preference is Kedro as enforcement of some minimal standards make it more maintainable overviewable
+- -> ZenML if ML Ops parts will change more frequent in the future
 
 
 # 14.11.2022 Log Tracking: Grafana: What is Grafana?
