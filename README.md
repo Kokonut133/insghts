@@ -1,9 +1,27 @@
-# insghts
+# insights
 Just a collection of insights, mostly in a professional programming/data science setting
 
 # To checkout
 
 ---
+# 17.11.2022 Model Explainability: What can I do to easily get model-agnostic explanations of why a model predicted a way?
+- use SHAP
+- more specifically: https://github.com/MAIF/shapash
+# 17.11.2022 Pipeline Orchestration: What is Pipeline orchestration?
+- A tool to create modular, reusable code which can be plugged together in an easy way with a configuration file
+# 17.11.2022 Pipeline Orchestration: Which pipeline orchestration should I use at this point?
+- Kedro, ZenML, MetaFlow, Airflow are free, popular options
+- MetaFlow lacks documentation, flexibility, extensibility; strong interfaces to AWS -> nope
+- Kedro is more strict in structuring but has many plugins to enlarge its capabilities
+- Kedro is aimed for medium to large teams
+- ZenML main strength is its minimalistic nature and integration with many different ML Ops tools
+- ZenML allows one to customize more freely ones interactions
+- ZenML focuses on small to medium sized teams
+- Airflow has a flat learning curve but long-termish is one of the mightiest
+- Airflow requires a very specific way of dealing with data
+-> Personal preference is Kedro as enforcement of some minimal standards make it more maintainable overviewable
+-> ZenML if ML Ops parts will change more frequent in the future
+
 
 # 14.11.2022 Log Tracking: Grafana: What is Grafana?
 - a visualization tool for logs, metrics with a time-series nature
