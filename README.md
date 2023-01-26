@@ -4,6 +4,23 @@ Just a collection of insights, mostly in a professional programming/data science
 # To checkout
 
 ---
+# 26.01.2022 Leadership: How to answer questions about your salary?
+- often salary is seen as a direct indicator of value -> therefore touchy topic
+- if reason to ask is unknown and policies unclear, initially avoid with "Never enough :D"
+- talk as a coworker even if you are a department head and be clear about your influence on that decision process
+- don't raise hopes before having any confirmation -> crushed hope leads to distrust; an unexpected positive surprise increases trust
+
+# 26.01.2022 Leadership: Quality metrics for Leadership success?
+- number of raises you helped pushing
+- retention rate of personal
+- employees satisfaction
+- team productivity velocity
+
+# 26.01.2022 Vision Model: Pretraining: What are good practices working with vision models?
+- Vision Transformers seem the go-to in handling and performance (2023)
+- Pretraining them via MAE (Masked Auto Encoders) initializes them often very well without the need of labels
+- MAE removes randomly 25% of the image and asks to reconstruct the image; supervised task where x and y can be obtained by imagery only
+
 # 17.11.2022 Model Explainability: What can I do to easily get model-agnostic explanations of why a model predicted a way?
 - use SHAP
 - more specifically: https://github.com/MAIF/shapash
