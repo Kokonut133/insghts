@@ -4,19 +4,26 @@ Just a collection of insights, mostly in a professional programming/data science
 # To checkout
 
 ---
-# 26.01.2022 Leadership: How to answer questions about your salary?
+# 14.02.2023 Neural Networks: How to enable lifelong learning? (Theory)
+- Having an initial structure to embed inputs in a more distinguished form
+- Having a central structure using the embedding to allocate processing to subareas of specialization
+- Scale the network over time over task to allow areas of specialization drifting of the central general learning structure
+- If sufficient scoring is achieved freeze near input areas or gradually decrease plasticity to enable resiliency
+- Allocate neurons (=space/resources) according to impact and regularly blank (return to zero signal) unused/mildly ones
+
+# 26.01.2023 Leadership: How to answer questions about your salary?
 - often salary is seen as a direct indicator of value -> therefore touchy topic
 - if reason to ask is unknown and policies unclear, initially avoid with "Never enough :D"
 - talk as a coworker even if you are a department head and be clear about your influence on that decision process
 - don't raise hopes before having any confirmation -> crushed hope leads to distrust; an unexpected positive surprise increases trust
 
-# 26.01.2022 Leadership: Quality metrics for Leadership success?
+# 26.01.2023 Leadership: Quality metrics for Leadership success?
 - number of raises you helped pushing
 - retention rate of personal
 - employees satisfaction
 - team productivity velocity
 
-# 26.01.2022 Vision Model: Pretraining: What are good practices working with vision models?
+# 26.01.2023 Vision Model: Pretraining: What are good practices working with vision models?
 - Vision Transformers seem the go-to in handling and performance (2023)
 - Pretraining them via MAE (Masked Auto Encoders) initializes them often very well without the need of labels
 - MAE removes randomly 25% of the image and asks to reconstruct the image; supervised task where x and y can be obtained by imagery only
